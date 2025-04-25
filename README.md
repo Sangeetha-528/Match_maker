@@ -44,6 +44,8 @@ Install all required packages using:
 ```bash
 pip install -r requirements.txt
 
+---
+
 ###📁 File Structure
 
 Match_maker/
