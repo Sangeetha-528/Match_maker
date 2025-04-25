@@ -37,16 +37,14 @@ The sample dataset (`extended_dating_app_user_profiles.csv`) contains diverse pr
 
 ---
 
-### 📦 Requirements
+### 📦 Requirements & 📁 File Structure
 
 Install all required packages using:
 
 ```bash
 pip install -r requirements.txt
 
----
-
-###📁 File Structure
+📁 File Structure
 
 Match_maker/
 │
